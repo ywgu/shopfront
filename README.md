@@ -3,7 +3,7 @@ This repo contains code samples from my O'Reilly minibook ["Containerizing Conti
 
 The README is intended to provide high-level guidance of the project, and detailed instructions can be found in the accompanying book.
 
-## Project Structure
+## Project Structure ##
 
 * ci-vagrant
  * Installation files that build a Jenkins instance that is ready for experimenting with the examples contained within the book.
